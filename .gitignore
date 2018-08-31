@@ -5,7 +5,8 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
+awsconfiguration.json
+bfg-1.13.0.jar
 ## Build generated
 build/
 DerivedData/
